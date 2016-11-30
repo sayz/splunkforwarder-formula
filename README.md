@@ -10,10 +10,10 @@ See the full [Salt Formulas installation and usage instructions](http://docs.sal
 ## Available states
 
 - [splunkforwarder](#splunkforwarder)
-- [splunkforwarder.certs](#splunkforwarder-certs)
-- [splunkforwarder.forwarder](#splunkforwarder-forwarder)
-- [splunkforwarder.intermediate-forwarder](#splunkforwarder-intermediate-forwarder)
-- [splunkforwarder.secret](#splunkforwarder-secret)
+- [splunkforwarder.certs](#splunkforwardercerts)
+- [splunkforwarder.forwarder](#splunkforwarderforwarder)
+- [splunkforwarder.intermediate-forwarder](#splunkforwarderintermediate-forwarder)
+- [splunkforwarder.secret](#splunkforwardersecret)
 
 
 ### splunkforwarder
